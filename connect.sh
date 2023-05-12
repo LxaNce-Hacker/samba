@@ -129,6 +129,7 @@ read -n1 -p "${RED}[${WHITE}?${RED}]${ORANGE} Do You Want To Connect That Server
 if [[ ${ops,,} == "y" ]]; then
 	echo -e "\n"
 	read -p "${RED}[${ORANGE}*${RED}]${GREEN} Enter Target ShareName : ${RED}" sharename
+	echo "${GREEN}"
 	if [[ ${workground} ]]; then
 		smbclient \\\\$IP\\C$ -W $workground -U $username 
 	else
