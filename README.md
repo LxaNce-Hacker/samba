@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.3-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/LxaNce-Hacker/samba?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/LxaNce-Hacker/samba?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/LxaNce-Hacker/samba?color=red&style=for-the-badge">
