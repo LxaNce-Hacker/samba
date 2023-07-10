@@ -55,7 +55,7 @@ check_update(){
 			[ $? -ne 0 ] && { echo -e "\n\n${RED}[${WHITE}!${RED}]${RED} Error occured while extracting."; reset_color; exit 1; }
 			rm -f .samba.tar.gz
 			popd > /dev/null 2>&1
-			{ sleep 3; clear; banner_small; }
+			{ sleep 3; clear; banner; }
 			echo -ne "\n${GREEN}[${WHITE}+${GREEN}] Successfully updated! Run samba again\n\n"${WHITE}
 			{ reset_color ; exit 1; }
 		else
