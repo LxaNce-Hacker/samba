@@ -3,7 +3,7 @@
   <img src=".img/samba.png">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Purpose-Network%20Administration-orange?style=for-the-badge">
 </p>
